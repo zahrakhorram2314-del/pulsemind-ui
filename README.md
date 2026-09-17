@@ -32,7 +32,7 @@ PulseMind UI is a B2B visual prototype designed to explore how Cognitive UX prin
 * **Ergonomic Palette:** Low-strain Charcoal background (`#12131C`) with Indigo accents (`#8A70D6`).
 
 ## 🖼️ UI Prototype
-![PulseMind UI Dashboard](dashboard-preview.png)
+![PulseMind UI Dashboard](Screenshot_۲۰۲۶۰۹۱۸_۰۱۰۸۵۵_Chrome.png)
 
 ## 📌 Project Status
 * **Current Stage:** Interactive UI Concept & Architectural Design.
